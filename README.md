@@ -77,5 +77,5 @@ public class SampleCV {
 ```
 
 ### 效果图
- [!109.jpg](109.jpg)
- [!109.opencv.jpg](109.opencv.jpg)
+ ![原图](109.jpg)
+ ![处理之后](109.opencv.jpg)
