@@ -28,7 +28,8 @@ opencv 和java集成，还是挺简单的。直接在官方下载安装SDK，然
 ## 坑
 ### 3.1.0版本和2.4.9版本API发生了变化
 * highgui被Imgcodecs所代替了
-* 
+* Imgproc.rectangle取代了Core.rectangle
+上面两个问题在stackoverflow上都可以找到答案。
 
 ## 完整代码
 ```
