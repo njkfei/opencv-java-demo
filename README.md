@@ -25,6 +25,10 @@ opencv 和java集成，还是挺简单的。直接在官方下载安装SDK，然
  String path = "C:\\SOFTWARE\\opencv\\build\\java\\x64\\opencv_java310.dll";
  System.load(path);
 ```
+## 坑
+### 3.1.0版本和2.4.9版本API发生了变化
+* highgui被Imgcodecs所代替了
+* 
 
 ## 完整代码
 ```
